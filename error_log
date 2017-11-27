@@ -1,0 +1,1 @@
+[27-Nov-2017 07:35:33 UTC] PHP Warning:  Missing argument 1 for esc_url(), called in /home/otthromoviktkhk/public_html/wordpress/wp-content/themes/vw-automobile-lite/no-results.php on line 23 and defined in /home/otthromoviktkhk/public_html/wordpress/wp-includes/formatting.php on line 3789
